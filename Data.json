@@ -1,0 +1,193 @@
+{
+    "users": [
+
+        {
+            "id" : 1,
+            "userName" : "Tom Cruise",
+            "priority" : "high",
+            "date" : "May 26, 2019",
+            "status": "Contact Email not Linked",
+            "time" : " 6:30 PM",
+            "lastSeen": "1",
+            "image": "./public/assets/images/img1.png",
+            "phone": "998911107697"
+        },
+        {
+            "id" : 2,
+            "userName" : "Matt Damon",
+            "priority" : "low",
+            "date" : "May 26, 2019",
+            "status": "Adding Images to Featured Posts",
+            "time" : " 8:00 PM",
+            "lastSeen": "1",
+            "image": "./public/assets/images/img2.png",
+            "phone": "998911107697"
+        },
+        {
+            "id" : 3,
+            "userName" : "Robert Downey",
+            "priority" : "high",
+            "date" : "May 26, 2019",
+            "status": "When will I be charged this month?",
+            "time" : " 7:30 PM",
+            "lastSeen": "1",
+            "image": "./public/assets/images/img3.png",
+            "phone": "998911107697"
+        },
+        {
+            "id" : 4,
+            "userName" : "Christian Bale",
+            "priority" : "normal",
+            "date" : "May 25, 2019",
+            "status": "Payment not going through",
+            "time" : " 5:00 PM",
+            "lastSeen": "2",
+            "image": "./public/assets/images/img4.png",
+            "phone": "998911107697"
+        },
+        {
+            "id" : 5,
+            "userName" : "Henry Cavil",
+            "priority" : "high",
+            "date" : "May 25, 2019",
+            "status": "Unable to add replies",
+            "time" : " 4:00 PM",
+            "lastSeen": "2",
+            "image": "./public/assets/images/img5.png",
+            "phone": "998911107697"
+        },
+        {
+            "id" : 6,
+            "userName" : "Chris Evans",
+            "priority" : "normal",
+            "date" : "May 25, 2019",
+            "status": "Downtime since last week",
+            "time" : " 2:00 PM",
+            "lastSeen": "3",
+            "image": "./public/assets/images/img6.png",
+            "phone": "998911107697"
+        },
+        {
+            "id" : 7,
+            "userName" : "Sam Smith",
+            "priority" : "low",
+            "date" : "May 25, 2019",
+            "status": "Referral Bonus",
+            "time" : " 11:30 AM",
+            "lastSeen": "4",
+            "image": "./public/assets/images/img7.png",
+            "phone": "998911107697"
+        },
+        {
+            "id" : 8,
+            "userName" : "Steve Rogers",
+            "priority" : "normal",
+            "date" : "May 24, 2019",
+            "status": "How do I change my password?",
+            "time" : " 1:00 PM",
+            "lastSeen": "6",
+            "image": "./public/assets/images/img8.png",
+            "phone": "998911107697"
+        },
+        {
+            "id" : 8,
+            "userName" : "Steve Rogers",
+            "priority" : "normal",
+            "date" : "May 24, 2019",
+            "status": "How do I change my password?",
+            "time" : " 1:00 PM",
+            "lastSeen": "6",
+            "image": "./public/assets/images/img8.png",
+            "phone": "998911107697"
+        },
+        {
+            "id" : 8,
+            "userName" : "Steve Rogers",
+            "priority" : "normal",
+            "date" : "May 24, 2019",
+            "status": "How do I change my password?",
+            "time" : " 1:00 PM",
+            "lastSeen": "6",
+            "image": "./public/assets/images/img8.png",
+            "phone": "998911107697"
+        },
+        {
+            "id" : 8,
+            "userName" : "Steve Rogers",
+            "priority" : "normal",
+            "date" : "May 24, 2019",
+            "status": "How do I change my password?",
+            "time" : " 1:00 PM",
+            "lastSeen": "6",
+            "image": "./public/assets/images/img8.png",
+            "phone": "998911107697"
+        },
+        {
+            "id" : 8,
+            "userName" : "Steve Rogers",
+            "priority" : "normal",
+            "date" : "May 24, 2019",
+            "status": "How do I change my password?",
+            "time" : " 1:00 PM",
+            "lastSeen": "6",
+            "image": "./public/assets/images/img8.png",
+            "phone": "998911107697"
+        },
+        {
+            "id" : 8,
+            "userName" : "Steve Rogers",
+            "priority" : "normal",
+            "date" : "May 24, 2019",
+            "status": "How do I change my password?",
+            "time" : " 1:00 PM",
+            "lastSeen": "6",
+            "image": "./public/assets/images/img8.png",
+            "phone": "998911107697"
+        },
+        {
+            "id" : 8,
+            "userName" : "Steve Rogers",
+            "priority" : "normal",
+            "date" : "May 24, 2019",
+            "status": "How do I change my password?",
+            "time" : " 1:00 PM",
+            "lastSeen": "6",
+            "image": "./public/assets/images/img8.png",
+            "phone": "998911107697"
+        },
+        {
+            "id" : 8,
+            "userName" : "Steve Rogers",
+            "priority" : "normal",
+            "date" : "May 24, 2019",
+            "status": "How do I change my password?",
+            "time" : " 1:00 PM",
+            "lastSeen": "6",
+            "image": "./public/assets/images/img8.png",
+            "phone": "998911107697"
+        },
+        {
+            "id" : 8,
+            "userName" : "Steve Rogers",
+            "priority" : "normal",
+            "date" : "May 24, 2019",
+            "status": "How do I change my password?",
+            "time" : " 1:00 PM",
+            "lastSeen": "6",
+            "image": "./public/assets/images/img8.png",
+            "phone": "998911107697"
+        },
+        {
+            "id" : 8,
+            "userName" : "Steve Rogers",
+            "priority" : "normal",
+            "date" : "May 24, 2019",
+            "status": "How do I change my password?",
+            "time" : " 1:00 PM",
+            "lastSeen": "6",
+            "image": "./public/assets/images/img8.png",
+            "phone": "998911107697"
+        }
+    ]
+    
+  }
