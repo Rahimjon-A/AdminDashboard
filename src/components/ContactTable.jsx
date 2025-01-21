@@ -1,5 +1,6 @@
 import { Paper, Table, TableBody, TableCell, TableContainer, TableHead, TableRow } from '@mui/material';
 import { useEffect, useState } from 'react';
+import { myUsers } from '../../data';
 
 const ContactTable = () => {
   const [users, setUsers] = useState();
@@ -23,8 +24,8 @@ const ContactTable = () => {
         </TableHead>
 
         <TableBody>
-          {users &&
-            users.map((item) => (
+          {myUsers &&
+            myUsers.map((item) => (
               <TableRow key={item.id} className='hover:bg-slate-300'>
                 <TableCell> {item.id} </TableCell>
                 <TableCell>

@@ -1,6 +1,7 @@
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import MUIDataTable from 'mui-datatables';
 import { useEffect, useState } from 'react';
+import { myUsers } from '../../data';
 
 const DataTable = () => {
   const [users, setUsers] = useState([]);
@@ -147,7 +148,7 @@ const DataTable = () => {
   return (
     <div>
       <ThemeProvider theme={getMuiTheme()}>
-        <MUIDataTable title={'All tickets'} columns={columns} data={users} options={options} />
+        <MUIDataTable title={'All tickets'} columns={columns} data={myUsers} options={options} />
       </ThemeProvider>
     </div>
   );
